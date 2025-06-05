@@ -97,7 +97,7 @@ Result: Commands disabled for all users in the **HR and IT OU**.
 ## Screenshots
 
 - [AD Domain Structure](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/AD_Domain_Structure.png)
-- GPO Editor Screenshot
+- [GPO Editor Screenshot](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/GPO_Editor%20_Screenshot.png)
 - PC joined to domain
 - Result of denied USB access
 
