@@ -96,7 +96,7 @@ Result: Commands disabled for all users in the **HR and IT OU**.
 
 ## Screenshots
 
-- [AD Domain Structure](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/AD_Domain_Structure.png)
+- [AD Domain Structure](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/Screenshots/AD_Domain_Structure.png)
 - [GPO Editor Screenshot](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/GPO_Editor%20_Screenshot.png)
 - [PC joined to domain](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/Windows_10_PC_joined%20to_Domain_1.png)
 - [Remove and Prevent all access to shutdown, Restart and Hibalate Commands](https://github.com/AwePeter/Active-Directory-Simulation-Cybernook-Solutions/blob/main/Windows_7_Alt_F4_access_denied.png)
