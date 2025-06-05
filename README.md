@@ -1,4 +1,4 @@
-﻿
+32﻿
 # Active Directory Simulation – Cybernook Solutions
 
 This project is the deployment of a Windows Server Domain Controller (Active Directory) for a company called **Cybernook Solutions**. It includes domain setup, client configuration, OU design, group policies, and access control in an enterprise environment.
@@ -82,6 +82,15 @@ Created and linked using **Group Policy Management Console (gpmc.msc)**:
   - Set **"All Removable Storage classes: Deny all access"** to **Enabled**
 
 Result: USB and external drives are disabled for all users in the **Accounts OU**.
+
+- **GPO Name**: `DisableRemovableDrives`
+- **Linked to**: OU: HR Department
+- **Policy Configured**:
+  - `Computer Configuration` > `Administrative Templates` > `System` > `Removable Storage Access`
+  - Set **"Remove and Prevent all access to shutdown, Restart and Hibalate Commands"** to **Enabled**
+
+Result: Commands disabled for all users in the **HR and IT OU**.
+
 
 ---
 
